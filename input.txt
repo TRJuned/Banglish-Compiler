@@ -1,0 +1,9 @@
+
+purnoshongkha main(){  
+    purnoshongkha i=0;        
+    jonno(i=1;i<=10;i++){
+        dekhao("%d \n",i);
+        }
+    pathao 0;  
+}
+
